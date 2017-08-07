@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+
+target 'IJKDemo' do
+
+pod 'GPUImage-Goonbee', '~> 0.1.6.1'
+
+end

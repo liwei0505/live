@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  IJKDemo
+//
+//  Created by lee on 16/10/9.
+//  Copyright © 2016年 bird. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+

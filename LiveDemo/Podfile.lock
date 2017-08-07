@@ -1,0 +1,12 @@
+PODS:
+  - GPUImage-Goonbee (0.1.6.1)
+
+DEPENDENCIES:
+  - GPUImage-Goonbee (~> 0.1.6.1)
+
+SPEC CHECKSUMS:
+  GPUImage-Goonbee: 459a5a981cd4ed443cca5012226eea0a31692f74
+
+PODFILE CHECKSUM: aba80b4d3f4a907e37fa872e660c6344cc236039
+
+COCOAPODS: 1.0.0.beta.6

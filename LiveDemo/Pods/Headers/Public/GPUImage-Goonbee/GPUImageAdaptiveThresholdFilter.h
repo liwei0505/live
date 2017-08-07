@@ -1,0 +1,1 @@
+../../../GPUImage-Goonbee/framework/Source/GPUImageAdaptiveThresholdFilter.h

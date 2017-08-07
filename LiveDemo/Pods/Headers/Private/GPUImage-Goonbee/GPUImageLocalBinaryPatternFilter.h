@@ -1,0 +1,1 @@
+../../../GPUImage-Goonbee/framework/Source/GPUImageLocalBinaryPatternFilter.h
